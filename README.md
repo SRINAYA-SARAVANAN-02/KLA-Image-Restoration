@@ -293,6 +293,9 @@ The repository includes the files required for reproducible evaluation:
 | `outputs/test_restored/` | Restored test images |
 | `requirements.txt` | Python dependencies |
 
+## Video Link
+https://drive.google.com/file/d/1emqQXz8R6Ew0mjef-dAadbfA6Kt7tRzH/view?usp=drive_link
+
 ## Notes
 
 - Input images are grayscale NumPy arrays.
